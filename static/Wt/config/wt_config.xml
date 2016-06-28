@@ -1,0 +1,12 @@
+<server>
+<application-settings location="*">
+    <properties>
+   <property name="tinyMCEVersion">4</property>
+   <property name="tinyMCEBaseURL">./tinymce</property>
+   <property name="tinyMCEURL">./tinymce/tinymce.min.js</property>
+   <property name="resourcesURL">./Wt/resources</property>
+<!--    <property name="appRoot">./</property> -->
+</properties>
+
+</application-settings>
+</server>
